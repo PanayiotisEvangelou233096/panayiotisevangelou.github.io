@@ -1,0 +1,214 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v1_3 {
+    width: 100%;
+    height: 2043px;
+    background: none;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_4 {
+    width: 390px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 10px;
+    left: 38px;
+    font-family: Inter;
+    font-weight: Semi Bold;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v3_9 {
+    width: 100%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 99px;
+    left: 38px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v10_12 {
+    width: 238px;
+    color: rgba(255,255,255,0.05000000074505806);
+    position: absolute;
+    top: 1950px;
+    left: 589px;
+    font-family: Inter;
+    font-weight: Semi Bold;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v5_2 {
+    width: 675px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 594px;
+    left: 383px;
+    font-family: Inter;
+    font-weight: Light;
+    font-size: 13px;
+    opacity: 1;
+    text-align: center;
+  }
+  .name {
+    color: #fff;
+  }
+  .name {
+    color: #fff;
+  }
+  .v9_8 {
+    width: 675px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 1004px;
+    left: 383px;
+    font-family: Inter;
+    font-weight: Light;
+    font-size: 13px;
+    opacity: 1;
+    text-align: center;
+  }
+  .name {
+    color: #fff;
+  }
+  .v10_5 {
+    width: 675px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 1424px;
+    left: 383px;
+    font-family: Inter;
+    font-weight: Light;
+    font-size: 13px;
+    opacity: 1;
+    text-align: center;
+  }
+  .name {
+    color: #fff;
+  }
+  .v9_11 {
+    width: 250px;
+    height: 250px;
+    background: url("../images/v9_11.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 684px;
+    left: 595px;
+    box-shadow: 5px 9px 8px rgba(0, 0, 0, 1);
+    overflow: hidden;
+  }
+  .v10_4 {
+    width: 277px;
+    height: 285px;
+    background: url("../images/v10_4.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1077px;
+    left: 582px;
+    box-shadow: 5px 9px 8px rgba(0, 0, 0, 1);
+    overflow: hidden;
+  }
+  .v10_7 {
+    width: 675px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 1846px;
+    left: 383px;
+    font-family: Inter;
+    font-weight: Light;
+    font-size: 13px;
+    opacity: 1;
+    text-align: center;
+  }
+  .name {
+    color: #fff;
+  }
+  .v10_10 {
+    width: 250px;
+    height: 250px;
+    background: url("../images/v10_10.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1527px;
+    left: 299px;
+    box-shadow: 5px 9px 8px rgba(0, 0, 0, 1);
+    overflow: hidden;
+  }
+  .v10_11 {
+    width: 250px;
+    height: 250px;
+    background: url("../images/v10_11.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1527px;
+    left: 577px;
+    box-shadow: 5px 9px 8px rgba(0, 0, 0, 1);
+    overflow: hidden;
+  }
+  .v10_2 {
+    width: 236px;
+    height: 235px;
+    background: url("../images/v10_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 299px;
+    left: 475px;
+    box-shadow: 5px 9px 8px rgba(0, 0, 0, 1);
+    overflow: hidden;
+  }
+  .v10_3 {
+    width: 236px;
+    height: 235px;
+    background: url("../images/v10_3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 299px;
+    left: 729px;
+    box-shadow: 5px 9px 8px rgba(0, 0, 0, 1);
+    overflow: hidden;
+  }
+  .v10_13 {
+    width: 258px;
+    height: 250px;
+    background: url("../images/v10_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1527px;
+    left: 860px;
+    box-shadow: 5px 9px 8px rgba(0, 0, 0, 1);
+    overflow: hidden;
+  }
+  
